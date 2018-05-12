@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '4095'
     url: http://www.gutenberg.org/2009/agents/4095
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14586#The-Brain-A-Decoded-Enigma
 gutenberg_bookshelf: Psychology
 gutenberg_issued: '2005-01-04'
 gutenberg_type: Text
